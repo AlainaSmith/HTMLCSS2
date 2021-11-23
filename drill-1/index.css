@@ -1,0 +1,75 @@
+#top-header {
+    height: 10vh;
+    background-color: grey;
+}
+
+.box1{
+    display: flex;
+    align-items: center;   /*this takes hte place of having to set position*/
+    flex-direction: column;
+    height: 90vh;   
+    background-color: rgb(175, 163, 163);
+}
+
+#first-section {
+    background-color: white;
+    /* position: top; */
+    height: 80%;  /*80% of whatever we said for box one*/
+    width: 80vw;
+    /* align-self: center; */
+}
+
+#fourth-section {
+    background-color: black;
+    /* align-self: center; */
+    height: 20%;
+    width: 80vw;
+
+} 
+
+/* 
+#second-section {
+    background-color: grey;
+    position: absolute;
+    left: 870px;
+    height: 600px;
+    width: 120px;
+}
+
+#third-section {
+    background-color: grey;
+    position: relative;
+    height: 600px;
+    width: 120px;
+} */
+
+
+
+
+/* second section that has background colgroupand two section inside that */
+
+
+
+
+/*
+.middlediv {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer {
+    background-color: black;
+    height: 10vh;
+    width: 60vw;
+    margin-left: 375px;
+}
+
+
+
+.left {
+    background-color:grey;
+    height: 80vh;
+    width: 5vh
+}
+
+/*
