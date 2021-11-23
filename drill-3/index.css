@@ -1,0 +1,57 @@
+#top-header {
+    background-color: grey;
+    height: 100px;
+    width: 900px
+}
+
+#sq {
+    background: rgb(94, 94, 196);
+    height: 50px;
+    width: 50px;
+    position: relative;
+    top: 40px;
+    left: 40px;
+}
+
+/* z index to use on the other sections? to cover over the white?  */
+
+
+#darkBlue {
+    background: blue;
+    height: 100px;
+    width: 900px;
+    position: relative;
+    top: 50px
+}
+
+#lightBlue {
+    background: lightskyblue;
+    height: 100px;
+    width: 900px;
+    position: relative;
+    top: 50px
+}
+
+#lightGreen {
+    background: lightgreen;
+    height: 100px;
+    width: 900px;
+    position: relative;
+    top: 50px;
+}
+
+#limeGreen {
+    background: limegreen;
+    height: 100px;
+    width: 900px;
+    position: relative;
+    top: 50px
+}
+
+
+
+
+
+
+
+
